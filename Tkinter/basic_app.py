@@ -46,10 +46,10 @@ class MainApp:
 
     def create_frames(self):
         # Instantiate two frame objects side by side
-        self.frame1 = WidgetFrame(self.root, title="Frame 1")
+        self.frame1 = WidgetFrame(self.root, title="Left Pane")
         self.frame1.grid(row=0, column=0, padx=20, pady=20)
 
-        self.frame2 = WidgetFrame(self.root, title="Frame 2")
+        self.frame2 = WidgetFrame(self.root, title="Right Pane")
         self.frame2.grid(row=0, column=1, padx=20, pady=20)
 
 # Run the app
