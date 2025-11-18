@@ -1,0 +1,25 @@
+{
+    "initial_budget": 10000.0,
+    "expenses": [
+        {
+            "description": "concert ticket ",
+            "amount": 288.88
+        },
+        {
+            "description": "computer",
+            "amount": 3985.55
+        },
+        {
+            "description": "apple cider",
+            "amount": 18.75
+        },
+        {
+            "description": "peanuts",
+            "amount": 0.8
+        },
+        {
+            "description": "groceries",
+            "amount": 38.45
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "description": "Walk the Dog",
+        "complete": false
+    },
+    {
+        "description": "Clean the Toilet",
+        "complete": false
+    },
+    {
+        "description": "Wash the Dishes",
+        "complete": true
+    },
+    {
+        "description": "Watch TV",
+        "complete": false
+    },
+    {
+        "description": "Call mother",
+        "complete": false
+    }
+]
