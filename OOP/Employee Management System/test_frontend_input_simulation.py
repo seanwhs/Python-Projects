@@ -1,8 +1,8 @@
 # test_frontend_input_simulation.py
 import pytest
 from FrontEndManager import FrontEndManager
-from EmployeesManager import EmployeesManager
-from Employee import Employee
+from Tkinter.Employee_Management.Tkinter.Employee_Management.EmployeesManager import EmployeesManager
+from Tkinter.Employee_Management.Tkinter.Employee_Management.Employee import Employee
 
 # --- Fixtures ---
 @pytest.fixture

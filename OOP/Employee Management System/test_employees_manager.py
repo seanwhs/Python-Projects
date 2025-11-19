@@ -1,7 +1,7 @@
 # test_employees_manager.py
 import pytest
-from EmployeesManager import EmployeesManager
-from Employee import Employee
+from Tkinter.Employee_Management.Tkinter.Employee_Management.EmployeesManager import EmployeesManager
+from Tkinter.Employee_Management.Tkinter.Employee_Management.Employee import Employee
 
 # --- Fixtures ---
 @pytest.fixture

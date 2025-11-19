@@ -1,5 +1,5 @@
 # EmployeesManager.py
-from Tkinter.Employee_Management.Tkinter.Employee_Management.Employee import Employee
+from Employee import Employee
 from operator import attrgetter
 import json
 from pathlib import Path

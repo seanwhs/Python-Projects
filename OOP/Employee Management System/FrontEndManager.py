@@ -1,5 +1,5 @@
 # FrontEndManager.py
-from EmployeesManager import EmployeesManager
+from Tkinter.Employee_Management.Tkinter.Employee_Management.EmployeesManager import EmployeesManager
 from utility import input_number
 
 class FrontEndManager:
