@@ -17,8 +17,7 @@ A simple **Employee Management System** built with Python and Tkinter, allowing 
 ---
 
 ## Screenshots
-
-*(You can add screenshots here showing the Tkinter GUI in action.)*
+![alt text](image.png)
 
 ---
 
